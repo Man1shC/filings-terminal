@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+# raw filings, indexes and prices are rebuilt by the pipeline (large)
+data/
+# never commit keys
+.env
+*.key

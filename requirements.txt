@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+pandas
+numpy
+scipy
+scikit-learn
+statsmodels
+yfinance
+anthropic
+fastembed
+streamlit
+plotly
